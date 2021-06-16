@@ -1,1 +1,3 @@
 # VBA-challenge
+
+This code looks through stock market data to determine how much a stock's price has changed over a year.  It loops through the data and, for each stock, finds the  opening price from the beginning of the year as well as the closing price at the end of the year.  It determines the change in price as well as the percent increase/decrease of the stock.  It adds up all the stock volume for each stock.  It then populates the summary data on the right hand side of the worksheet and does some conditional formatting to indicate a positive or negative percent change.  It applies this logic to all worksheets on the workbook.
